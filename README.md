@@ -7,7 +7,9 @@ python3 advanced_dna_rna_parser.py <path_to_fasta_file>
 *Examples:*
 
 `python3 advanced_dna_rna_parser.py test_files/test_part1_in.fasta`
+
 `python3 advanced_dna_rna_parser.py test_files/test_part2_in.fasta`
+
 `python3 advanced_dna_rna_parser.py test_files/test_part3_in.fasta`
 
 If there's no filepath given then it defaults to test_files/test_part1_in.fasta
