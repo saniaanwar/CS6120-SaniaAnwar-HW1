@@ -1,0 +1,87 @@
+>Seq_1
+ACGTACGT
+Type:  DNA
+Length:  8
+Counts: A = 2, C = 2, G = 2, T = 2, ambiguous = 0
+Number of ORFs:  0
+
+
+>Seq_2
+AUGCUG
+Type:  RNA
+Length:  6
+Counts: A = 1, C = 1, G = 2, U = 2, ambiguous = 0
+Number of ORFs:  0
+
+
+>Seq_3
+TUUUU
+Type:  Invalid
+
+
+>Seq_4
+ACGNRYACGT
+Type:  DNA
+Length:  10
+Counts: A = 2, C = 2, G = 2, T = 1, ambiguous = 3
+Number of ORFs:  0
+
+
+>Seq_5
+AUGUNACG
+Type:  RNA
+Length:  8
+Counts: A = 2, C = 1, G = 2, U = 2, ambiguous = 1
+Number of ORFs:  0
+
+
+>Seq_6
+TTTTTTT
+Type:  DNA
+Length:  7
+Counts: A = 0, C = 0, G = 0, T = 7, ambiguous = 0
+Number of ORFs:  0
+
+
+>Seq_7
+UUUNNN
+Type:  RNA
+Length:  6
+Counts: A = 0, C = 0, G = 0, U = 3, ambiguous = 3
+Number of ORFs:  0
+
+
+>Seq_8
+XYZXYZ
+Type:  Invalid
+
+
+>Seq_9
+ACGTU
+Type:  Invalid
+
+
+>Seq_10
+NRYYNN
+Type:  Invalid
+
+
+>Seq_11
+AGCUA
+Type:  RNA
+Length:  5
+Counts: A = 2, C = 1, G = 1, U = 1, ambiguous = 0
+Number of ORFs:  0
+
+
+>Seq_12
+UAGT
+Type:  Invalid
+
+
+--SUMMARY--
+Valid DNA sequences:  3
+Mean DNA length:  8.33
+Valid RNA sequences:  4
+Mean RNA length:  6.25
+Invalid Sequences:  5

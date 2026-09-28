@@ -1,0 +1,106 @@
+>DNA_1
+ATGAAATGATAA
+Type:  DNA
+Length:  12
+Counts: A = 7, C = 0, G = 2, T = 3, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 6 Open Reading Frame:  ATGAAATGA
+
+
+>DNA_2
+ACGTACGT
+Type:  DNA
+Length:  8
+Counts: A = 2, C = 2, G = 2, T = 2, ambiguous = 0
+Number of ORFs:  0
+
+
+>DNA_3
+ATGCCCTGATGA
+Type:  DNA
+Length:  12
+Counts: A = 3, C = 3, G = 3, T = 3, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 6 Open Reading Frame:  ATGCCCTGA
+
+
+>RNA_1
+AUGAAACCCUGA
+Type:  RNA
+Length:  12
+Counts: A = 5, C = 3, G = 2, U = 2, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 9 Open Reading Frame:  AUGAAACCCUGA
+
+
+>RNA_2
+AUGUGA
+Type:  RNA
+Length:  6
+Counts: A = 2, C = 0, G = 2, U = 2, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 3 Open Reading Frame:  AUGUGA
+
+
+>INVALID_1
+ATGU
+Type:  Invalid
+
+
+>DNA_4
+TTTATGCCCTAA
+Type:  DNA
+Length:  12
+Counts: A = 3, C = 3, G = 1, T = 5, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 3 Stops at: , 9 Open Reading Frame:  ATGCCCTAA
+
+
+>RNA_3
+AUGAUGUAG
+Type:  RNA
+Length:  9
+Counts: A = 3, C = 0, G = 3, U = 3, ambiguous = 0
+Number of ORFs:  2
+--> Starts at: , 0 Stops at: , 6 Open Reading Frame:  AUGAUGUAG
+--> Starts at: , 3 Stops at: , 6 Open Reading Frame:  AUGUAG
+
+
+>DNA_5
+ATGCCCTAGTAA
+Type:  DNA
+Length:  12
+Counts: A = 4, C = 3, G = 2, T = 3, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 6 Open Reading Frame:  ATGCCCTAG
+
+
+>RNA_4
+CCCAGGAUGUAGUAA
+Type:  RNA
+Length:  15
+Counts: A = 5, C = 3, G = 4, U = 3, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 6 Stops at: , 9 Open Reading Frame:  AUGUAG
+
+
+>INVALID_2
+TTUUA
+Type:  Invalid
+
+
+>DNA_6
+ATGAAATAGTAGACGT
+Type:  DNA
+Length:  16
+Counts: A = 7, C = 1, G = 4, T = 4, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 6 Open Reading Frame:  ATGAAATAG
+
+
+--SUMMARY--
+Valid DNA sequences:  6
+Mean DNA length:  12.0
+Valid RNA sequences:  4
+Mean RNA length:  10.5
+Invalid Sequences:  2

@@ -1,0 +1,99 @@
+>SEQ_DNA_1
+ATGAAATAGTAA
+Type:  DNA
+Length:  12
+Counts: A = 7, C = 0, G = 2, T = 3, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 6 Open Reading Frame:  ATGAAATAG
+
+
+>SEQ_RNA_1
+AUGAAAUAGUAA
+Type:  RNA
+Length:  12
+Counts: A = 7, C = 0, G = 2, U = 3, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 6 Open Reading Frame:  AUGAAAUAG
+
+
+>SEQ_DNA_2
+ACGTACGT
+Type:  DNA
+Length:  8
+Counts: A = 2, C = 2, G = 2, T = 2, ambiguous = 0
+Number of ORFs:  0
+
+
+>SEQ_DNA_3
+TTTTTTTT
+Type:  DNA
+Length:  8
+Counts: A = 0, C = 0, G = 0, T = 8, ambiguous = 0
+Number of ORFs:  0
+
+
+>SEQ_INVALID_1
+UUTTT
+Type:  Invalid
+
+
+>SEQ_RNA_2
+AUGCCCUAG
+Type:  RNA
+Length:  9
+Counts: A = 2, C = 3, G = 2, U = 2, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 6 Open Reading Frame:  AUGCCCUAG
+
+
+>SEQ_DNA_4
+ATGCCCTGA
+Type:  DNA
+Length:  9
+Counts: A = 2, C = 3, G = 2, T = 2, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 6 Open Reading Frame:  ATGCCCTGA
+
+
+>SEQ_INVALID_2
+ACGTU
+Type:  Invalid
+
+
+>SEQ_RNA_3
+AUGAAACGCGCGUAA
+Type:  RNA
+Length:  15
+Counts: A = 6, C = 3, G = 4, U = 2, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 12 Open Reading Frame:  AUGAAACGCGCGUAA
+
+
+>SEQ_DNA_5
+ATGXYZ
+Type:  Invalid
+
+
+>SEQ_DNA_6
+ATGAAACCCGGGTTTTAA
+Type:  DNA
+Length:  18
+Counts: A = 6, C = 3, G = 4, T = 5, ambiguous = 0
+Number of ORFs:  1
+--> Starts at: , 0 Stops at: , 15 Open Reading Frame:  ATGAAACCCGGGTTTTAA
+
+
+>SEQ_RNA_4
+UAAAAUGUGAUAA
+Type:  RNA
+Length:  13
+Counts: A = 7, C = 0, G = 2, U = 4, ambiguous = 0
+Number of ORFs:  0
+
+
+--SUMMARY--
+Valid DNA sequences:  5
+Mean DNA length:  11.0
+Valid RNA sequences:  4
+Mean RNA length:  12.25
+Invalid Sequences:  3
